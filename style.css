@@ -103,6 +103,6 @@ card{
 }
 
 .quiz-img{
-  height: 100;
-  width: 150:
+  max-height: 50px;
+  max-width: 100px:
 }
