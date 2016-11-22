@@ -42,8 +42,7 @@ p span:hover {
   background: rgba(205, 100, 100, 0.5);
 }
 
-em {
-  position: fixed;
+.score{
   bottom: 0px;
   left: 0px;
   font-size: 30px;
