@@ -55,3 +55,20 @@ em {
 #final{
     display: none;
 }
+
+.nav-link{
+    color: yellow !important;
+}
+
+.dropdown-menu{
+  color: yellow !important;
+}
+
+.dropdown-item{
+  color: yellow !important;
+}
+.navbar-brand{
+    color: yellow !important;
+}
+
+.dropdown-menu { background-color: #FF0000 !important;}
