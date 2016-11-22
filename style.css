@@ -10,10 +10,13 @@ body {
   color: white;
   background: red;
   font-family: helvetica;
-  max-width: 500px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
+}
+
+.quiz{
+  max-width: 500px
 }
 
 p {
