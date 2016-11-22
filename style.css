@@ -97,3 +97,7 @@ em {
   background-color: red !important;
   border: 1px solid yellow !important;
 }
+
+card{
+  border-color: yellow !important;
+}
