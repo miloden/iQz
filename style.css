@@ -54,6 +54,7 @@ em {
 
 #final{
     display: none;
+    color: yellow;
 }
 
 .nav-link{
@@ -71,4 +72,11 @@ em {
     color: yellow !important;
 }
 
-.dropdown-menu { background-color: #FF0000 !important;}
+.dropdown-menu { 
+  background-color: #FF0000 !important;
+}
+
+.return-home {
+  text-align: center;
+  color: yellow;
+}
